@@ -6,6 +6,5 @@ server:
     nodePortHttps: 30002
 global:
   hostAliases:
-  - ip: 20.200.245.247
-    hostnames:
-    - github.com
+   ip: 20.200.245.247
+   hostnames: github.com
